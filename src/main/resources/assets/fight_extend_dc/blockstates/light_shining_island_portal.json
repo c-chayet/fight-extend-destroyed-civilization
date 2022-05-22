@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "fight_extend_dc:block/light_shining_island_portal_ew"
+    },
+    "axis=x": {
+      "model": "fight_extend_dc:block/light_shining_island_portal_ns"
+    }
+  }
+}

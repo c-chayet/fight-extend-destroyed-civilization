@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "fight_extend_dc:block/chaos_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "fight_extend_dc:block/chaos_log"
+    },
+    "axis=z": {
+      "model": "fight_extend_dc:block/chaos_log",
+      "x": 90
+    }
+  }
+}

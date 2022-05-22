@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "fight_extend_dc:block/chaos_slab"
+    },
+    "type=top": {
+      "model": "fight_extend_dc:block/chaos_slab_top"
+    },
+    "type=double": {
+      "model": "fight_extend_dc:block/chaos_slab_full"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "fight_extend_dc:block/forge_table_scythe"
+    },
+    "facing=east": {
+      "model": "fight_extend_dc:block/forge_table_scythe",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "fight_extend_dc:block/forge_table_scythe",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fight_extend_dc:block/forge_table_scythe",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "fight_extend_dc:block/forge_table_scythe",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "fight_extend_dc:block/forge_table_scythe",
+      "x": 90
+    }
+  }
+}

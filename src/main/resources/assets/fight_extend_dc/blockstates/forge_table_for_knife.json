@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "fight_extend_dc:block/forge_table_for_knife"
+    },
+    "facing=east": {
+      "model": "fight_extend_dc:block/forge_table_for_knife",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "fight_extend_dc:block/forge_table_for_knife",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fight_extend_dc:block/forge_table_for_knife",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "fight_extend_dc:block/forge_table_for_knife",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "fight_extend_dc:block/forge_table_for_knife",
+      "x": 90
+    }
+  }
+}
