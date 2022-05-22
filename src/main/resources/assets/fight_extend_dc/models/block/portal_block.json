@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fight_extend_dc:blocks/csmk",
+    "up": "fight_extend_dc:blocks/csmk",
+    "north": "fight_extend_dc:blocks/csmk",
+    "east": "fight_extend_dc:blocks/csmk",
+    "south": "fight_extend_dc:blocks/csmk",
+    "west": "fight_extend_dc:blocks/csmk",
+    "particle": "fight_extend_dc:blocks/csmk"
+  }
+}

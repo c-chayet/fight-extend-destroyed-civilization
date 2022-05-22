@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fight_extend_dc:blocks/lightingchaosstone",
+    "up": "fight_extend_dc:blocks/lightingchaosstone",
+    "north": "fight_extend_dc:blocks/lightingchaosstone",
+    "east": "fight_extend_dc:blocks/lightingchaosstone",
+    "south": "fight_extend_dc:blocks/lightingchaosstone",
+    "west": "fight_extend_dc:blocks/lightingchaosstone",
+    "particle": "fight_extend_dc:blocks/lightingchaosstone"
+  }
+}

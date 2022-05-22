@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "fight_extend_dc:blocks/chaos_planks",
+    "particle": "fight_extend_dc:blocks/chaos_planks"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fight_extend_dc:blocks/expcondensetabledown",
+    "up": "fight_extend_dc:blocks/expcondensetabletop",
+    "north": "fight_extend_dc:blocks/expreservoirmain",
+    "east": "fight_extend_dc:blocks/expreservoirmain",
+    "south": "fight_extend_dc:blocks/expreservoirmain",
+    "west": "fight_extend_dc:blocks/expreservoirmain",
+    "particle": "fight_extend_dc:blocks/expcondensetabledown"
+  }
+}

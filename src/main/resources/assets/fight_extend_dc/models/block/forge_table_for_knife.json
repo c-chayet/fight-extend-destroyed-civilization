@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fight_extend_dc:blocks/ddtjiand",
+    "up": "fight_extend_dc:blocks/ddtjianup",
+    "north": "fight_extend_dc:blocks/ddtjianf",
+    "east": "fight_extend_dc:blocks/ddtjianlr",
+    "south": "fight_extend_dc:blocks/ddtjianlr",
+    "west": "fight_extend_dc:blocks/ddtjianlr",
+    "particle": "fight_extend_dc:blocks/ddtjiand"
+  }
+}

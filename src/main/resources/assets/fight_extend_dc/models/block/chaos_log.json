@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fight_extend_dc:blocks/chaos_log_top",
+    "up": "fight_extend_dc:blocks/chaos_log_top",
+    "north": "fight_extend_dc:blocks/chaos_log_side",
+    "east": "fight_extend_dc:blocks/chaos_log_side",
+    "south": "fight_extend_dc:blocks/chaos_log_side",
+    "west": "fight_extend_dc:blocks/chaos_log_side",
+    "particle": "fight_extend_dc:blocks/chaos_log_top"
+  }
+}

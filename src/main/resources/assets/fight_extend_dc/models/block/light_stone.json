@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fight_extend_dc:blocks/lightrock",
+    "up": "fight_extend_dc:blocks/lightrock",
+    "north": "fight_extend_dc:blocks/lightrock",
+    "east": "fight_extend_dc:blocks/lightrock",
+    "south": "fight_extend_dc:blocks/lightrock",
+    "west": "fight_extend_dc:blocks/lightrock",
+    "particle": "fight_extend_dc:blocks/lightrock"
+  }
+}

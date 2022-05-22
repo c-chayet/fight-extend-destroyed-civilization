@@ -1,0 +1,6 @@
+{
+  "parent": "block/pressure_plate_up",
+  "textures": {
+    "texture": "fight_extend_dc:blocks/chaos_planks"
+  }
+}

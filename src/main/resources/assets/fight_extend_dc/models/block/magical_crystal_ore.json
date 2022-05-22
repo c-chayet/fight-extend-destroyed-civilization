@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fight_extend_dc:blocks/mojingkuang_ore",
+    "particle": "fight_extend_dc:blocks/mojingkuang_ore"
+  }
+}

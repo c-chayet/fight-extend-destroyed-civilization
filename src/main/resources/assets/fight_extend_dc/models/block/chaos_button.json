@@ -1,0 +1,6 @@
+{
+  "parent": "block/button",
+  "textures": {
+    "texture": "fight_extend_dc:blocks/chaos_planks"
+  }
+}
