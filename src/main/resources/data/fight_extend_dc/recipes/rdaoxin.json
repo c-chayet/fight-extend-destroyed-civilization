@@ -1,0 +1,33 @@
+{
+  "group": "bf",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01 ",
+    "3 5",
+    " 78"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:dyes"
+    },
+    "1": {
+      "tag": "minecraft:planks"
+    },
+    "3": {
+      "tag": "minecraft:planks"
+    },
+    "5": {
+      "tag": "minecraft:planks"
+    },
+    "7": {
+      "tag": "minecraft:planks"
+    },
+    "8": {
+      "tag": "forge:dyes"
+    }
+  },
+  "result": {
+    "item": "fight_extend_dc:handguard",
+    "count": 1
+  }
+}

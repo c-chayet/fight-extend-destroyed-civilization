@@ -1,0 +1,24 @@
+{
+  "group": "bf",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 4 ",
+    "6  "
+  ],
+  "key": {
+    "2": {
+      "item": "fight_extend_dc:wooden_knife_top"
+    },
+    "4": {
+      "item": "fight_extend_dc:handguard"
+    },
+    "6": {
+      "item": "fight_extend_dc:hilt"
+    }
+  },
+  "result": {
+    "item": "fight_extend_dc:wooden_knife",
+    "count": 1
+  }
+}

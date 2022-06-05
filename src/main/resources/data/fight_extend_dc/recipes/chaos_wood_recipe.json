@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "fight_extend_dc:chaos_log"
+    },
+    "1": {
+      "item": "fight_extend_dc:chaos_log"
+    },
+    "2": {
+      "item": "fight_extend_dc:chaos_log"
+    },
+    "3": {
+      "item": "fight_extend_dc:chaos_log"
+    }
+  },
+  "result": {
+    "item": "fight_extend_dc:chaos_wood",
+    "count": 3
+  }
+}

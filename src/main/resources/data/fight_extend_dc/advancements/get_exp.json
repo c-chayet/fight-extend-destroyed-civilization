@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "fight_extend_dc:fighter_instrument"
+    },
+    "title": {
+      "translate": "advancements.get_exp.title"
+    },
+    "description": {
+      "translate": "advancements.get_exp.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "get_exp": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "fight_extend_dc:fighter_instrument",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "fight_extend_dc:into_the_game"
+}

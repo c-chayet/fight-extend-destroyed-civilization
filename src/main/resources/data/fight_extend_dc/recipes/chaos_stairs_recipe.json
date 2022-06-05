@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "fight_extend_dc:chaos_planks"
+    },
+    "3": {
+      "item": "fight_extend_dc:chaos_planks"
+    },
+    "4": {
+      "item": "fight_extend_dc:chaos_planks"
+    },
+    "6": {
+      "item": "fight_extend_dc:chaos_planks"
+    },
+    "7": {
+      "item": "fight_extend_dc:chaos_planks"
+    },
+    "8": {
+      "item": "fight_extend_dc:chaos_planks"
+    }
+  },
+  "result": {
+    "item": "fight_extend_dc:chaos_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "fight_extend_dc:light_water",
+    "fight_extend_dc:light_water_flowing"
+  ]
+}

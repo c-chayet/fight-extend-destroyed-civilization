@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:lava_bucket"
+    },
+    "3": {
+      "item": "fight_extend_dc:chaos_log"
+    },
+    "4": {
+      "item": "minecraft:glass_bottle"
+    },
+    "5": {
+      "item": "fight_extend_dc:chaos_log"
+    },
+    "6": {
+      "item": "fight_extend_dc:chaos_log"
+    },
+    "7": {
+      "item": "fight_extend_dc:chaos_log"
+    },
+    "8": {
+      "item": "fight_extend_dc:chaos_log"
+    }
+  },
+  "result": {
+    "item": "fight_extend_dc:chaos_depressor",
+    "count": 1
+  }
+}

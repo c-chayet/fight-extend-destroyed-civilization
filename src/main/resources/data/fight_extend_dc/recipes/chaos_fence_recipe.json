@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "fight_extend_dc:chaos_planks"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "fight_extend_dc:chaos_planks"
+    },
+    "3": {
+      "item": "fight_extend_dc:chaos_planks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "fight_extend_dc:chaos_planks"
+    }
+  },
+  "result": {
+    "item": "fight_extend_dc:chaos_fence",
+    "count": 3
+  }
+}

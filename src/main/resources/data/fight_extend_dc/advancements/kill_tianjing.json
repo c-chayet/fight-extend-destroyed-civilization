@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "fight_extend_dc:core_of_tianjing"
+    },
+    "title": {
+      "translate": "advancements.kill_tianjing.title"
+    },
+    "description": {
+      "translate": "advancements.kill_tianjing.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "kill_tianjing": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "fight_extend_dc:core_of_tianjing",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "fight_extend_dc:into_another_world"
+}

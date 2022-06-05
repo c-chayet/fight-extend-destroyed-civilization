@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fight_extend_dc:exp_level_crystal"
+    },
+    {
+      "item": "fight_extend_dc:exp_level_crystal"
+    },
+    {
+      "item": "fight_extend_dc:exp_level_crystal"
+    }
+  ],
+  "result": {
+    "item": "fight_extend_dc:exp_level_crystal_board",
+    "count": 1
+  }
+}

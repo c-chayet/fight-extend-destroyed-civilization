@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "fight_extend_dc:portal_block"
+    },
+    "title": {
+      "translate": "advancements.into_another_world.title"
+    },
+    "description": {
+      "translate": "advancements.into_another_world.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "into_another_world": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "fight_extend_dc:magical_crystal_world"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "fight_extend_dc:into_the_game"
+}

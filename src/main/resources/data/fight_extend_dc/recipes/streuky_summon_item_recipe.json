@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01 ",
+    " 45",
+    "  8"
+  ],
+  "key": {
+    "0": {
+      "item": "fight_extend_dc:magical_crystal"
+    },
+    "1": {
+      "item": "fight_extend_dc:magical_crystal"
+    },
+    "4": {
+      "item": "fight_extend_dc:magical_crystal_world"
+    },
+    "5": {
+      "item": "fight_extend_dc:magical_crystal"
+    },
+    "8": {
+      "item": "fight_extend_dc:magical_crystal"
+    }
+  },
+  "result": {
+    "item": "fight_extend_dc:streuky_summon_item",
+    "count": 1
+  }
+}

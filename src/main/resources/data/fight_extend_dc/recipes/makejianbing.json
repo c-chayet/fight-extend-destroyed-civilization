@@ -1,0 +1,36 @@
+{
+  "group": "bf",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "345",
+    "67 "
+  ],
+  "key": {
+    "1": {
+      "tag": "forge:dyes"
+    },
+    "2": {
+      "tag": "minecraft:planks"
+    },
+    "3": {
+      "item": "minecraft:paper"
+    },
+    "4": {
+      "tag": "minecraft:planks"
+    },
+    "5": {
+      "item": "minecraft:paper"
+    },
+    "6": {
+      "tag": "minecraft:planks"
+    },
+    "7": {
+      "tag": "forge:dyes"
+    }
+  },
+  "result": {
+    "item": "fight_extend_dc:hilt",
+    "count": 1
+  }
+}

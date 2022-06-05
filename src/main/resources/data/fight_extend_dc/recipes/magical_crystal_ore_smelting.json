@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 3,
+  "cookingtime": 300,
+  "ingredient": {
+    "item": "fight_extend_dc:magical_crystal_ore"
+  },
+  "result": {
+    "item": "fight_extend_dc:magical_crystal"
+  }
+}

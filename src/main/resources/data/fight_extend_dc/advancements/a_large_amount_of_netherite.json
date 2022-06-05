@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "fight_extend_dc:netherites_knife"
+    },
+    "title": {
+      "translate": "advancements.a_large_amount_of_netherite.title"
+    },
+    "description": {
+      "translate": "advancements.a_large_amount_of_netherite.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "a_large_amount_of_netherite": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "fight_extend_dc:netherites_knife",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 10
+  },
+  "parent": "fight_extend_dc:triple_update"
+}

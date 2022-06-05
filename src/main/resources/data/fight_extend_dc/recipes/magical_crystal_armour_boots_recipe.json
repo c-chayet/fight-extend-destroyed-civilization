@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "fight_extend_dc:magical_crystal"
+    },
+    "2": {
+      "item": "fight_extend_dc:magical_crystal"
+    },
+    "3": {
+      "item": "fight_extend_dc:magical_crystal"
+    },
+    "5": {
+      "item": "fight_extend_dc:magical_crystal"
+    }
+  },
+  "result": {
+    "item": "fight_extend_dc:magical_crystal_armour_boots",
+    "count": 1
+  }
+}

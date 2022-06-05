@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:chaos_log"
+    }
+  ],
+  "result": {
+    "item": "fight_extend_dc:chaos_planks",
+    "count": 4
+  }
+}

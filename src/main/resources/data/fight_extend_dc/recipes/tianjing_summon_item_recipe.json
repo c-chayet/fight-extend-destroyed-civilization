@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "fight_extend_dc:magical_crystal"
+    },
+    "3": {
+      "item": "fight_extend_dc:magical_crystal"
+    },
+    "4": {
+      "item": "fight_extend_dc:magical_crystal_world"
+    },
+    "5": {
+      "item": "fight_extend_dc:magical_crystal"
+    },
+    "7": {
+      "item": "fight_extend_dc:magical_crystal"
+    }
+  },
+  "result": {
+    "item": "fight_extend_dc:tianjing_summon_item",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fight_extend_dc:chaos_planks"
+    }
+  ],
+  "result": {
+    "item": "fight_extend_dc:chaos_button",
+    "count": 1
+  }
+}

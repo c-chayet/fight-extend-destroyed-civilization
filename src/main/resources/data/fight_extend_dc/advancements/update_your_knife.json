@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "fight_extend_dc:stone_knife"
+    },
+    "title": {
+      "translate": "advancements.update_your_knife.title"
+    },
+    "description": {
+      "translate": "advancements.update_your_knife.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "update_your_knife": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "fight_extend_dc:stone_knife",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "fight_extend_dc:into_the_game"
+}

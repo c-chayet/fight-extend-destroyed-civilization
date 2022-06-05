@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 4 ",
+    "6  "
+  ],
+  "key": {
+    "2": {
+      "item": "fight_extend_dc:wooden_scythe_top"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "6": {
+      "item": "fight_extend_dc:long_hilt"
+    }
+  },
+  "result": {
+    "item": "fight_extend_dc:wooden_scythe",
+    "count": 1
+  }
+}

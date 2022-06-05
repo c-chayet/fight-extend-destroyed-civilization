@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01 ",
+    "345",
+    " 78"
+  ],
+  "key": {
+    "0": {
+      "item": "fight_extend_dc:magical_crystal_block"
+    },
+    "1": {
+      "item": "fight_extend_dc:magical_crystal_block"
+    },
+    "3": {
+      "item": "fight_extend_dc:magical_crystal"
+    },
+    "4": {
+      "item": "fight_extend_dc:core_of_streuky"
+    },
+    "5": {
+      "item": "fight_extend_dc:magical_crystal_block"
+    },
+    "7": {
+      "item": "fight_extend_dc:magical_crystal"
+    },
+    "8": {
+      "item": "fight_extend_dc:magical_crystal_block"
+    }
+  },
+  "result": {
+    "item": "fight_extend_dc:refinement_seed_scythe",
+    "count": 1
+  }
+}

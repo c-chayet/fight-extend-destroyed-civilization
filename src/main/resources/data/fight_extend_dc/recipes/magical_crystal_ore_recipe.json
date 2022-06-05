@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fight_extend_dc:magical_crystal_block"
+    }
+  ],
+  "result": {
+    "item": "fight_extend_dc:magical_crystal",
+    "count": 9
+  }
+}

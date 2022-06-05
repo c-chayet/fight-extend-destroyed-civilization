@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "item": "fight_extend_dc:magical_crystal_scythe"
+    },
+    "title": {
+      "translate": "advancements.the_weapon_behind_door.title"
+    },
+    "description": {
+      "translate": "advancements.the_weapon_behind_door.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "the_weapon_behind_door": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "fight_extend_dc:magical_crystal_scythe",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "fight_extend_dc:weapon_fron_lava"
+}

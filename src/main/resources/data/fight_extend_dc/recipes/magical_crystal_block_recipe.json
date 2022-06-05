@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "fight_extend_dc:magical_crystal"
+    },
+    "1": {
+      "item": "fight_extend_dc:magical_crystal"
+    },
+    "2": {
+      "item": "fight_extend_dc:magical_crystal"
+    },
+    "3": {
+      "item": "fight_extend_dc:magical_crystal"
+    },
+    "4": {
+      "item": "fight_extend_dc:magical_crystal"
+    },
+    "5": {
+      "item": "fight_extend_dc:magical_crystal"
+    },
+    "6": {
+      "item": "fight_extend_dc:magical_crystal"
+    },
+    "7": {
+      "item": "fight_extend_dc:magical_crystal"
+    },
+    "8": {
+      "item": "fight_extend_dc:magical_crystal"
+    }
+  },
+  "result": {
+    "item": "fight_extend_dc:magical_crystal_block",
+    "count": 1
+  }
+}

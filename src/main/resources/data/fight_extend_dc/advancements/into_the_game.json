@@ -1,0 +1,71 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "fight_extend_dc:magical_crystal"
+    },
+    "title": {
+      "translate": "advancements.into_the_game.title"
+    },
+    "description": {
+      "translate": "advancements.into_the_game.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "into_the_game": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "experience": 1,
+    "recipes": [
+      "fight_extend_dc:makejianbing",
+      "fight_extend_dc:rdaoxin",
+      "fight_extend_dc:rmudaotou",
+      "fight_extend_dc:rmujian",
+      "fight_extend_dc:rddtjian",
+      "fight_extend_dc:makejianbing",
+      "fight_extend_dc:rdaoxin",
+      "fight_extend_dc:rmudaotou",
+      "fight_extend_dc:rmujian",
+      "fight_extend_dc:rddtjian",
+      "minecraft:rjian",
+      "fight_extend_dc:magical_crystal_block_recipe",
+      "fight_extend_dc:magical_crystal_ore_recipe",
+      "fight_extend_dc:magical_crystal_ore_smelting",
+      "fight_extend_dc:magical_crystal_recipe",
+      "fight_extend_dc:portal_block_recipe",
+      "fight_extend_dc:portal_block_key_recipe",
+      "fight_extend_dc:tianjing_summon_item_recipe",
+      "fight_extend_dc:magical_crystal_armour_helmet_recipe",
+      "fight_extend_dc:magical_crystal_armour_body_recipe",
+      "fight_extend_dc:magical_crystal_armour_leggings_recipe",
+      "fight_extend_dc:magical_crystal_armour_boots_recipe",
+      "fight_extend_dc:refinement_seed_recipe",
+      "fight_extend_dc:fighter_instrument_recipe",
+      "fight_extend_dc:long_hilt_recipe",
+      "fight_extend_dc:wooden_scythe_top_recipe",
+      "fight_extend_dc:wooden_scythe_recipe",
+      "fight_extend_dc:exp_level_crystal_board_recipe",
+      "fight_extend_dc:refinement_seed_scythe_recipe",
+      "fight_extend_dc:streuky_summon_item_recipe",
+      "fight_extend_dc:triple_exp_level_crystal_board_recipe",
+      "fight_extend_dc:forge_table_scythe_recipe",
+      "fight_extend_dc:chaos_wood_recipe",
+      "fight_extend_dc:chaos_planks_recipe",
+      "fight_extend_dc:chaos_stairs_recipe",
+      "fight_extend_dc:chaos_slab_recipe",
+      "fight_extend_dc:chaos_fence_recipe",
+      "fight_extend_dc:chaos_fence_gate_recipe",
+      "fight_extend_dc:chaos_pressure_plate_recipe",
+      "fight_extend_dc:chaos_button_recipe",
+      "fight_extend_dc:chaos_stick_recipe",
+      "fight_extend_dc:exp_condense_table_recipe",
+      "fight_extend_dc:chaos_depressor_recipe"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "345",
+    "67 "
+  ],
+  "key": {
+    "1": {
+      "item": "fight_extend_dc:magical_crystal_block"
+    },
+    "2": {
+      "item": "fight_extend_dc:magical_crystal"
+    },
+    "3": {
+      "item": "fight_extend_dc:magical_crystal_block"
+    },
+    "4": {
+      "item": "fight_extend_dc:core_of_tianjing"
+    },
+    "5": {
+      "item": "fight_extend_dc:magical_crystal_block"
+    },
+    "6": {
+      "item": "fight_extend_dc:magical_crystal"
+    },
+    "7": {
+      "item": "fight_extend_dc:magical_crystal_block"
+    }
+  },
+  "result": {
+    "item": "fight_extend_dc:refinement_seed",
+    "count": 1
+  }
+}
