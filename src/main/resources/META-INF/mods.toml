@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="GNU General Public License version 3 (GPLv3)"
+
+[[mods]]
+modId="fight_extend_dc"
+version="0.9.6"
+displayName="fight extend:destroyed civilization"
+credits="Created by MCreator and Idea,Auther Team:chakiyet"
+displayURL="https://chayet.co"
+logoFile="logo.png"
+authors="Chayet (c-chayet)"
+description='''
+make some better weapon ,world and entity.This mod make your game more challenging
+'''
+
+[[dependencies.fight_extend_dc]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
