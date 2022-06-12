@@ -47,6 +47,7 @@ import net.minecraft.block.Blocks;
 import net.minecraft.block.BlockState;
 
 import net.mcreator.fight_extend_destroyed_civilization.entity.LightKnightEntity;
+import net.mcreator.fight_extend_destroyed_civilization.entity.EXLightKnightEntity;
 import net.mcreator.fight_extend_destroyed_civilization.block.ChaosLogBlock;
 import net.mcreator.fight_extend_destroyed_civilization.block.ChaosLeavesBlock;
 import net.mcreator.fight_extend_destroyed_civilization.FightExtendDcModElements;
@@ -103,6 +104,7 @@ public class ChaosForestBiomeBiome extends FightExtendDcModElements.ModElement {
 				mobSpawnInfo.withSpawner(EntityClassification.CREATURE, new MobSpawnInfo.Spawners(EntityType.PIG, 20, 4, 4));
 				mobSpawnInfo.withSpawner(EntityClassification.CREATURE, new MobSpawnInfo.Spawners(EntityType.SHEEP, 20, 4, 4));
 				mobSpawnInfo.withSpawner(EntityClassification.MONSTER, new MobSpawnInfo.Spawners(LightKnightEntity.entity, 10, 2, 4));
+				mobSpawnInfo.withSpawner(EntityClassification.MONSTER, new MobSpawnInfo.Spawners(EXLightKnightEntity.entity, 5, 1, 1));
 				biome = new Biome.Builder().precipitation(Biome.RainType.RAIN).category(Biome.Category.NONE).depth(0.1f).scale(0.2f).temperature(0.5f)
 						.downfall(0.5f).setEffects(effects).withMobSpawnSettings(mobSpawnInfo.copy())
 						.withGenerationSettings(biomeGenerationSettings.build()).build();
