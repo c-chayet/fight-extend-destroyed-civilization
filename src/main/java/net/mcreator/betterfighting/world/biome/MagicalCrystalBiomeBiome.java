@@ -37,6 +37,7 @@ import net.minecraft.client.audio.BackgroundMusicSelector;
 import net.minecraft.block.Blocks;
 
 import net.mcreator.fight_extend_destroyed_civilization.entity.LightKnightEntity;
+import net.mcreator.fight_extend_destroyed_civilization.entity.EXLightKnightEntity;
 import net.mcreator.fight_extend_destroyed_civilization.FightExtendDcModElements;
 
 import com.google.common.collect.ImmutableList;
@@ -103,6 +104,7 @@ public class MagicalCrystalBiomeBiome extends FightExtendDcModElements.ModElemen
 				mobSpawnInfo.withSpawner(EntityClassification.MONSTER, new MobSpawnInfo.Spawners(EntityType.SKELETON, 20, 4, 4));
 				mobSpawnInfo.withSpawner(EntityClassification.MONSTER, new MobSpawnInfo.Spawners(EntityType.SPIDER, 20, 4, 4));
 				mobSpawnInfo.withSpawner(EntityClassification.MONSTER, new MobSpawnInfo.Spawners(LightKnightEntity.entity, 10, 2, 5));
+				mobSpawnInfo.withSpawner(EntityClassification.MONSTER, new MobSpawnInfo.Spawners(EXLightKnightEntity.entity, 5, 1, 1));
 				biome = new Biome.Builder().precipitation(Biome.RainType.RAIN).category(Biome.Category.DESERT).depth(0.1f).scale(0.2f)
 						.temperature(0.5f).downfall(0.2f).setEffects(effects).withMobSpawnSettings(mobSpawnInfo.copy())
 						.withGenerationSettings(biomeGenerationSettings.build()).build();
